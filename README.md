@@ -13,3 +13,5 @@ Please don't take this as a reflection of the work we do here.  We promise it's 
 ### Module 2 - Run This at Scale
 
 Document via a text editor or via your favorite diagramming software how you would deploy this application to production and at scale. 
+
+[![Production Architecture](infra_takehome-modules.png)](https://excalidraw.com/#json=Xa42fyI9JPkE36EOyyqZW,rk7wtFexCbLjg8xCtcu8Yg)
